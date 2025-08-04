@@ -1,5 +1,5 @@
 # Credit-Risk-Prediction
-- XGBoost model for risk credit prediction
+### XGBoost model for risk credit prediction
 
 Data was collected from: 
 - https://www.kaggle.com/competitions/home-credit-default-risk/data
